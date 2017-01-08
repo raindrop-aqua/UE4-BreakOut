@@ -71,12 +71,12 @@
 			"Enabled": false
 		},
 		{
-			"Name": "Flurry",
-			"Enabled": true
+			"Name": "AudioCapture",
+			"Enabled": false
 		},
 		{
-			"Name": "AnalyticsBlueprintLibrary",
-			"Enabled": true
+			"Name": "AlembicImporter",
+			"Enabled": false
 		}
 	]
 }
